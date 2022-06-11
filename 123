@@ -1,0 +1,11 @@
+git status
+git init= to initilize
+git add file name= to add a file
+git commit -m " data to commit"= to commit the data
+git checkout branch name= to enter into the new branch
+git branch new branch name= create a new branch
+git log = shows the committed 
+git  checkout -- file name= to retrive the file that has deleted
+gir rm --cached file name= to untracked file
+
+
